@@ -1,0 +1,10 @@
+h1.footer-replace{
+   font-weight: bold;
+   position: relative;
+   text-indent: -999px;
+   width: 328px;
+}
+
+.dd-menu li a {
+color: #00ff00;
+}

@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Aug 2017 09:13:15 at http://connectionpoint4u.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://connectionpoint4u.com -O1 "D:\Websites\CPC Old" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:13:19	Error: 	"Not Found" (404) at link connectionpoint4u.com/js/jquery-1.6.2.min.js (from connectionpoint4u.com/)
+09:13:50	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/doublequote.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:50	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/sub-content-bg.jpg (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:50	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/dropcap.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:50	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/js/misc/PIE.htc (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:50	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/thumb-90x90.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/thumb-64x64.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/menu-2col-bg-462x162.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/thumb-614x270.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/menu-3col-bg-298x122.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/menu-4col-bg-203-122.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/thumb-78x78.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/comment-border-left-right.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/comment-border-top.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/comment-border-bottom.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:51	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/comment-arrow.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:52	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/comment-replay-border-left-right.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:52	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/categorie-list-bg.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:56	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/images/thumb-150x150.png (from cdn.mybridgeelement.com/_cornerstone/main.css)
+09:13:57	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/media/bigplay.png (from cdn.mybridgeelement.com/_cornerstone/media/mediaelementplayer.min.css)
+09:13:59	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/media/background.png (from cdn.mybridgeelement.com/_cornerstone/media/mediaelementplayer.min.css)
+09:14:02	Error: 	"Not Found" (404) at link cdn.mybridgeelement.com/_cornerstone/media/loading.gif (from cdn.mybridgeelement.com/_cornerstone/media/mediaelementplayer.min.css)
+09:14:02	Warning: 	File not parsed, looks like binary: connectionpoint4u.com/~connectp/cms-assets/zoom-cropped-images/464539_1_e5af7d.13187432-digital-illustration-dna-stru?rand=0.850122133269906
+09:14:03	Error: 	"Not Found" (404) at link connectionpoint4u.com/~connectp/js/jquery-1.6.2.min.js (from connectionpoint4u.com/~connectp/smallgroups.php)
+09:15:07	Error: 	"Not Found" (404) at link connectionpoint4u.com/media/09132013.mp3 (from connectionpoint4u.com/media.php)
+09:15:14	Error: 	"Not Found" (404) at link connectionpoint4u.com/~connectp/media/09132013.mp3 (from connectionpoint4u.com/~connectp/media.php)
+09:15:14	Error: 	"Not Found" (404) at link connectionpoint4u.com/~connectp/media/makewar072317.mp3 (from connectionpoint4u.com/~connectp/make-war.php)
+09:15:14	Error: 	"Not Found" (404) at link connectionpoint4u.com/~connectp/media/ilovethe90s031917.mp3 (from connectionpoint4u.com/~connectp/ilovethe90s.php)
+09:15:15	Error: 	"Not Found" (404) at link connectionpoint4u.com/cms-assets/documents/253962.detox1.discuss.docx (from connectionpoint4u.com/~connectp/detox.php)
+09:15:17	Error: 	"Not Found" (404) at link connectionpoint4u.com/~connectp/media/abraham061916.mp3 (from connectionpoint4u.com/~connectp/runningwithgiants.php)
+09:15:37	Error: 	"Not Found" (404) at link connectionpoint4u.com/media/110313sermon.m4a (from connectionpoint4u.com/connect.php)
+09:15:46	Error: 	"Not Found" (404) at link connectionpoint4u.com/~connectp/media/110313sermon.m4a (from connectionpoint4u.com/~connectp/connect.php)
+09:15:47	Error: 	"Not Found" (404) at link connectionpoint4u.com/lifepoint/cms-assets/documents/41482-720986.margin---week-2-audio.mp3 (from connectionpoint4u.com/gameplan.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 32 seconds : 440 links scanned, 407 files written (9282719947 bytes overall), 87 files updated [1749282 bytes received at 11508 bytes/sec], 6.9 requests per connection
+(32 errors, 1 warnings, 0 messages)
